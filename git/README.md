@@ -3,7 +3,7 @@
 Here I will list down basic commands and steps for getting started and using git.
 
 1. First thing is install git in your machine (Installation differs on each OS platform)
-2. Open an account on [gitlab](https://github.com) or [gitlab](https://gitlab.com) or any other service
+2. Open an account on [github](https://github.com) or [gitlab](https://gitlab.com) or any other service
 3. Create a folder/directory on your local machine (ex: knol) and Open a terminal/command window and cd to that folder.
 
    ```
