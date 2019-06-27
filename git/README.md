@@ -42,4 +42,8 @@ Here I will list down basic commands and steps for getting started and using git
    $ git push -u origin master
    ``` 
 
-9. Enter your github/gitlab credentials and press enter, this will push your README.md file into your knol repository
+9. Enter your github/gitlab credentials and press enter, this will push your README.md file into your knol repository. You can also setup ssh so that you don't have to enter your credentials everytime you want to push your changes to github/gitlab.
+
+
+
+Note: GUI Clients: Alternatively one can use GUI clients like [GitExtensions](http://gitextensions.github.io/), [Github Desktop](https://desktop.github.com/)
