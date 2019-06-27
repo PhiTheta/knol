@@ -4,7 +4,6 @@
 
 So.No | Prefix (Name - Symbol) | English word (Short Scale/Long Scale) | Base 10 | Decimal
 ----- | -----------------------|---------------------------------------| --------| -------
-
 1.  | Yotta -Y  | (Septillion/Quadrillion)     | 10^24   | 1000000000000000000000000
 2.  | Zetta -Z  | (sextillion/trilliard)       | 10^21   | 1000000000000000000000
 3.  | exa   -E  | (quintillion/trillion)       | 10^18   | 1000000000000000000
